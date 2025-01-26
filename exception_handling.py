@@ -3,3 +3,4 @@ try :
     print(a+3)
 except Exception as e :
     print("Some error occured : ",e)
+
